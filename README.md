@@ -1,5 +1,7 @@
 # Repo
 Learning github
 <br>
-changes lorem
+changes =  lorem
+
+chanhges1 = lorem1
 

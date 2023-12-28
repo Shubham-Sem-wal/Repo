@@ -1,0 +1,2 @@
+clone --> making copy of repository in our local machine
+ls -a --> for showing hidden file
