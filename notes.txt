@@ -1,2 +1,12 @@
 clone --> making copy of repository in our local machine
 ls -a --> for showing hidden file
+
+when we change somthing in our file then it will be called MODIFIED one
+this is untracked file as it is in our local system only not in remote system (github)
+
+first we add our file by -->  git add <file name>
+after this file came from untracked status to staging area
+
+commit using  --> git commit -m "some message"
+
+push using --> git push origin main
